@@ -1,7 +1,7 @@
 #Desktop1 {
     background: white;
     background: linear-gradient(90deg, rgb(52, 152, 219), rgb(169, 79, 83));
-   
+   display: flex;
   
 }
 #AndroidSmall1 {

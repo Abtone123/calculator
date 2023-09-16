@@ -71,7 +71,7 @@ squareRoot.addEventListener('click', function () {
 // y
 document.addEventListener("DOMContentLoaded", function () {
   var myElement = document.getElementById("Desktop1");
-  var colorButton = document.getElementById("change");
+  var colorButton = document.getElementById("Ac");
   var randomColors = ["rgb(52, 152, 219)", "rgb(169, 79, 83)"];
   var isInitialColor = true; // Flag to track the current state
 
